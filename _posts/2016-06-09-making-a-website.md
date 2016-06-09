@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Making a Website"
 date: 2016-06-09
 ---
