@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Being Well-Informed
 date: 2016-06-16
 ---
