@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Going Hiking
 date: 2016-07-02
 ---
