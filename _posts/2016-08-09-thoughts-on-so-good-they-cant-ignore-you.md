@@ -8,7 +8,7 @@ Today I read Cal Newport's 2012 manifesto, *So Good They Can't Ignore You*. It's
 
 Overall, I really liked it. Clear and well-written, I think most of what he fundamentally says is correct. This post is not a book review. I've just taken some points and responded/elaborated.
 
-#### Accounting for Talent
+## Accounting for Talent
 
 One thing not communicated well in the book is the pivotal question of "what am I good at?"
 
@@ -16,7 +16,7 @@ For instance, I reject Newport's claim that the difference in guitar skill betwe
 
 Success often implies that one has practiced, but practice is far from the whole story. Career choices made without accounting for skill are, I believe, recklessly made.
 
-#### Hard Work Is Good, Too
+## Hard Work Is Good, Too
 
 I remembered something Andrew Ng said in a [Huffington Post interview](http://www.huffingtonpost.com/2015/05/13/andrew-ng_n_7267682.html), in response to the question "Do you have any helpful habits or routines?" Ng talked about how, if one could read six research papers a week for two years, one would have made "a fantastic investment in your own long term development." That's not an easy thing to do, but (I imagine) it's that kind of study that often separates the top from the middle. Newport has that exactly right. "Capital" is a good word.
 
@@ -28,7 +28,7 @@ Because of that, I kept thinking back to Richard Hamming's talk "You and Your Re
 
 Investing in your capital increases the rate at which your capital grows! I love the analogy!
 
-#### Survivorship Bias
+## Survivorship Bias
 
 This is a bit of a nitpick but I need to write about it because it was screaming at me when I read it.
 
@@ -51,7 +51,7 @@ Survivorship bias, right? Wrzesniewski doesn't try to adjust for it, because the
 
 It's way out of bounds to use this data to support the claim, as Newport does, that "passion takes time."
 
-#### Types of Market: Auction and Winner-Take-All
+## Types of Market: Auction and Winner-Take-All
 
 Newport talks about identifying the market you're in: auction or winner-take-all. Members in winner-take-all markets compete only on one type of skill, while auction markets are everything else.
 
@@ -65,7 +65,7 @@ After reading into what Newport was writing, though, I think his language was su
 
 His central example is TV writing, where there is a strong divide between those who are successful and those who are not. But the way he defines winner-take-all has nothing to do with the types of success in the field. If my chosen field is Rails development, there is only one career capital: Rails ability. However, I don't think anyone would call the market "winner-take-all" in the way it is commonly used.
 
-#### What is the goal of advice to an arbitrary person?
+## What is the goal of advice to an arbitrary person?
 
 Newport claims that "follow your passion" is bad advice. But what is bad advice? What is the goal of advice in general when given to an arbitrary group of people?
 
@@ -73,7 +73,7 @@ Should advice serve to increase the happiness of the receiver(s)? Maybe it shoul
 
 This is not an easy question but it is fundamental to the book's theses.
 
-#### Do we need remarkable careers?
+## Do we need remarkable careers?
 
 Newport brings up Self-Determination Theory to help his case that passion is not necessary for workplace happiness. SDT claims that workplace motivation arises from autonomy, competence, and relatedness to others. He uses the fact that passion's exclusion from the list as an argument against it.
 
